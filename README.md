@@ -1,2 +1,3 @@
-# AraaaAraa-TP_AySO
-TP1 ARQ Y SO 2025
+Alumno: Florencia Arai Frettes
+División: 211
+Turno: Tarde
